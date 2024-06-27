@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ficheros>
+	<fichero>
+		<registro clave-principal="datos-1">
+			<nombre>Juan Sanchez Flores</nombre>
+			<direccion>C/ Santa Fe nº5</direccion>
+			<email>juan@juan.com</email>
+		</registro>
+	</fichero>
+	<fichero>
+		<registro clave-principal="datos-2">
+			<nombre>Miguel Perez Gomez</nombre>
+			<direccion>Aveda. Andalucia nº12</direccion>
+			<email>miguel@miguel.com</email>
+		</registro>
+	</fichero>
+	<fichero>
+		<registro clave-principal="datos-3">
+			<nombre>Jose Antonio Salido Marques</nombre>
+			<direccion>C/ Molinos 32</direccion>
+			<email>jose@jose.es</email>
+		</registro>
+	</fichero>	
+	<fichero>
+		<registro clave-principal="datos-4">
+			<nombre>Angela Garcia Merino</nombre>
+			<direccion>C/ Muladar nº 34</direccion>
+			<email>angela@angela.com</email>
+		</registro>
+	</fichero>
+</ficheros>

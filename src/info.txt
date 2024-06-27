@@ -1,0 +1,16 @@
+
+
+*** INICIO DE LA APLICACIÓN *****
+
+El archivo para datos permanentes es infoDb.xml, este guarda los datos aunque se cierre el programa
+y están disponible para leerlos al inicio del programa.
+La base principal de la gestión en pantalla de las bases de datos y tablas
+es el Map (basesDeDatos).
+Al arrancar la aplicación lo primero que se hace es leer el archivo XML "infoDb.xml" y mandarle
+los datos al Map "basesDeDatos", seguidamente se cargan en pantalla mediante varios métodos
+el contenido del Map.
+
+*** CREAR BASE DE DATOS ***
+ Se crea la base de datos con los métodos para crearla de la clase "BaseDatos".
+ Acto seguido se reescribe el archivo "infoDB.xml" con el método "crearXml" de la clase ArchivoXml
+ 
